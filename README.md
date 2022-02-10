@@ -4,6 +4,9 @@
 
 ### put your backend server url on this variable REACt_APP_API_ENDPOINT={your backend server}
 
+## admin creds email=admin@admin.com , password = adminpass
+## manager creds email=manager@manager.com , password = managerpass
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
